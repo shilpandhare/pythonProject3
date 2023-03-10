@@ -4,3 +4,5 @@ print ("Bye Everyone")
 
 
 print("A+B")
+
+print("X+Y")
